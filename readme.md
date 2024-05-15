@@ -12,7 +12,7 @@ If you use the code or data, please cite us:
 by Takaaki Kaneko and Jumpei Matsumoto et al. ([bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.16.561623v1))
 
 ### Demo 
-Please see [howToStart.md](howToStart.md)  
+Please see [gettingStarted.md](gettingStarted.md)  
 
 ### License
 - The tools and data are made available under the Apache 2.0 license.   
