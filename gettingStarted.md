@@ -1,4 +1,4 @@
-# Gettubg started 
+# Getting started 
 This document explains how to run the demo.
 
 # Additional dataset for the demo
