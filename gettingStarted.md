@@ -2,7 +2,7 @@
 This document explains how to run the demo.
 
 # Additional dataset for the demo
-Please add the video data and pretrained models from [DOI:10.5281/zenodo.11174658](https://zenodo.org/records/11174658).   
+Please download the video data and pretrained models from [DOI:10.5281/zenodo.11174658](https://zenodo.org/records/11174658).   
 Place the unzipped contents ("videos" and "weight" folders) in the same directory as this file. 
 
 # GPU driver 
