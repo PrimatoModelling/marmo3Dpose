@@ -1,0 +1,1 @@
+This is based on anipose(https://github.com/lambdaloop/anipose), and modified to use omnidir camera calibration for accurate 3D reconstruction.
