@@ -7,7 +7,8 @@
 This tool is designed to process multiple videos from various viewpoints and generate 3D pose estimations for groups of marmosets. It is especially useful for analyzing the behavior of freely moving marmosets in laboratory environments. The tool can be applied in areas such as biomedical, ethological, applied animal sciences and neuroscience research. The training dataset for this tool comprises over 56,000 annotations, enabling accurate 3D pose estimation of marmosets.
 
 - Analytic pipeline combining multiple CNNs and 3D reconstruction utilities. 
-- Pretrained network optimized for 3D pose estimation of marmoset families, which include a father, a mother, and an infant. The pre-trained model outputs time series data of 3D positions for eyes, nose, shoulders, elbows, wrists, hips, knees, ankles. The dataset is available [here](https://doi.org/10.5281/zenodo.11180331). 
+- Pretrained network optimized for 3D pose estimation of marmoset families, which include a father, a mother, and an infant. The pre-trained model outputs time series data of 3D positions for eyes, nose, shoulders, elbows, wrists, hips, knees, ankles. 
+- The training dataset is available [here](https://doi.org/10.5281/zenodo.11180331). 
 
 ### Reference 
 If you use the code or data, please cite us:   
