@@ -1,4 +1,7 @@
-# Model card for Marmo3Dpose
+# marmo3Dpose
+<img src="./imgs/dataset_pipeline.png" width="815">　　
+
+<img src="./imgs/VideoS1_foodshare.gif" width="400"> &nbsp;&nbsp; <img src="./imgs/VideoS2_foodcomp.gif" width="400"> 
 
 ## Model details
 This tool is designed to process multiple videos from various viewpoints and generate 3D pose estimations for groups of marmosets. It is especially useful for analyzing the behavior of freely moving marmosets in laboratory environments. The tool can be applied in areas such as biomedical, ethological, applied animal sciences and neuroscience research. The training dataset for this tool comprises over 56,000 annotations, enabling accurate 3D pose estimation of marmosets.
